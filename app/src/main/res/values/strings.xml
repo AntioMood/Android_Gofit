@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gofit</string>
+    <string name="title_activity_member_bot_nav">MemberBotNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_instruktur_bot_nav">InstrukturBotNavActivity</string>
+    <string name="title_activity_mobot_nav">MOBotNavActivity</string>
+</resources>
